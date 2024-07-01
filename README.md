@@ -27,5 +27,5 @@
 ## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-carvalho-da-silva-1380a267/)](https://www.linkedin.com/in/bruno-carvalho-da-silva-1380a267/)
-[![Gmail Badge](https://img.shields.io/badge/-brunodonk@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brunodonk@gmail.com)](mailto:brunodonk@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:brunodonk@gmail.com)](mailto:brunodonk@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/donkeixot)
