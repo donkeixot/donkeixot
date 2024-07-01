@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-- 🤔 Aprofundando meus conhecimentos em Ciência de Dados e aplicando técnicas avançadas para resolver problemas reais.
+- 🤔 Aprofundando meus conhecimentos em Ciência de Dados e implementando soluções baseadas em dados.
 - 🎓 Estudando Ciência de Dados na EBAC.
 - 💼 Trabalhando como Analista de Infraestrutura e Redes na DMS Fibra.
 
